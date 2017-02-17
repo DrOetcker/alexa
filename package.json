@@ -1,1 +1,9 @@
-
+{
+    "name": "alexa",
+    "version": "1.0.0",
+    "description": "alexa packages",
+    "repository": {
+        "type": "git",
+        "url": "alexa"
+    }
+}
